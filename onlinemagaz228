@@ -662,3 +662,14 @@
     </footer>
 </body>
 </html>
+------------ДЛЯ ДАНИКА----------
+<section class="booking">
+			<div class="fixed-container">
+				<form action="https://jsonplaceholder.typicode.com/posts">
+					<input type="date">
+					<input type="number">
+					<input type="email">
+					<button class="btn">300 $</button>
+				</form>
+			</div>
+		</section>
