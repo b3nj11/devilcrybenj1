@@ -944,3 +944,17 @@ a {
 	.contacts-box li{
 		margin-top: 5px;
 	}
+-----------------ДЛЯ ДАНИКА-------------
+.booking form{
+	display: flex;
+	flex-direction: column;
+    align-items: flex-start;
+}
+.booking input{
+	padding: 0px 15px;
+    width: 666px;
+    height: 50px;
+    border-radius: 15px;
+    border: 2px solid blue;
+    margin: 15px 0px;
+}
